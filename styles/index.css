@@ -98,7 +98,7 @@ body{
     
     #sneaker_title{
         font-size: 24pt;
-        left: 15%;
+        left: 5%;
         top: 10%;
     }
 
@@ -118,7 +118,7 @@ body{
         width: auto;
         position:absolute;
         top: 20%;
-        left: 15%;
+        left: 5%;
     }
 
     .main_container{
@@ -136,7 +136,7 @@ body{
         flex-direction: row;
         max-width: fit-content;
         padding-top: 50%;
-        padding-left: 10%;
+        padding-left: 5%;
     }
 
 
@@ -146,7 +146,7 @@ body{
         flex-direction: row;
         max-width: fit-content;
         position: absolute;
-        left: 10%;
+        left: 5%;
         top: 38%;
     }
 
@@ -173,7 +173,7 @@ body{
     }
 }
 
-@media (max-width: 786px){
+@media (max-width: 760px){
 
     body{
         background: linear-gradient(#A8A8A8, #D9D9D9, #808080);
