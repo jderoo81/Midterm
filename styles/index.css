@@ -86,22 +86,8 @@ body{
 
 @media only screen and (max-width: 766){
 
-    html, body{
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
     #page_title{
-        display: inline-block;
-        vertical-align: middle;
-        font-family: inter-regular;
-        font-size: 14pt;
-    }
-
-    #sneaker_title{
-        font-size: 24pt;
-        top: 68px;
+        font-family: 'Courier New', Courier, monospace;
     }
     
 
