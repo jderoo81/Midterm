@@ -1,0 +1,23 @@
+
+
+button{
+    border: none;
+    background-color: transparent;
+}
+
+#menu_button_container{
+    display: inline-block;
+    vertical-align: middle;
+}
+#menu_button{
+    padding: 10px;
+}
+
+#navMenu_list{
+    display: none;
+}
+
+.menu_list_item{
+    list-style-type: none;
+}
+
